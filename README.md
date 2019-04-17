@@ -11,8 +11,8 @@ The repository contains the main source, schematic and the PCB Gerber files.
 
 Here are some pictures of the prototype. I hand soldered the components.
 
-![IMG_20181126_225740](/home/tamasurfi/dev/ref/IMG_20181126_225740.jpg)
+![IMG_20181126_225740](IMG_20181126_225740.jpg)
 
-![IMG_20181126_225727](/home/tamasurfi/dev/ref/IMG_20181126_225727.jpg)
+![IMG_20181126_225727](IMG_20181126_225727.jpg)
 
-![IMG_20181126_225938](/home/tamasurfi/dev/ref/IMG_20181126_225938.jpg)
+![IMG_20181126_225938](IMG_20181126_225938.jpg)
